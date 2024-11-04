@@ -19,69 +19,7 @@
         "amount": 510.99,
         "type": "Payment from",
         "status": "Success"
-      },
-      {
-        "name": "Facebook Charge",
-        "date": "2023-10-15 08:00 PM",
-        "amount": 24.00,
-        "type": "Bill to",
-        "status": "Success"
-      },
-      {
-        "name": "UI8.net",
-        "date": "2023-10-15 08:00 PM",
-        "amount": 100.50,
-        "type": "Bill to",
-        "status": "Unpaid"
-      },
-      {
-        "name": "Facebook Charge",
-        "date": "2023-11-15 08:00 PM",
-        "amount": 110.99,
-        "type": "Bill to",
-        "status": "Success"
-      },
-      {
-        "name": "Courtney Henry",
-        "date": "2023-10-15 08:00 PM",
-        "amount": 120.99,
-        "type": "Bill to",
-        "status": "Success"
-      },
-      {
-        "name": "Facebook Charge",
-        "date": "2023-12-15 08:00 PM",
-        "amount": 190.00,
-        "type": "Bill to",
-        "status": "Unpaid"
-      },
-      {
-        "name": "Jacob Jones",
-        "date": "2023-12-15 08:00 PM",
-        "amount": 10.99,
-        "type": "Transfer",
-        "status": "Success"
-      },
-      {
-        "name": "Cody Fisher",
-        "date": "2023-10-19 08:00 PM",
-        "amount": 75.50,
-        "type": "Transfer",
-        "status": "Success"
-      },
-      {
-        "name": "Facebook Charge",
-        "date": "2023-10-15 08:00 PM",
-        "amount": 50.00,
-        "type": "Bill to",
-        "status": "Success"
-      },
-      {
-        "name": "UI8.net",
-        "date": "2023-07-15 08:00 PM",
-        "amount": 1024.00,
-        "type": "Refund",
-        "status": "Success"
       }
+    
 ]
   
