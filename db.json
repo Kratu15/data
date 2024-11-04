@@ -1,25 +1,29 @@
 [
     {
         "name": "Stripe",
-        "date": "2024-09-10 08:00 AM",
-        "amount": 450.75,
-        "type": "Payment from",
-        "status": "Pending"
-      },
-      {
+        "details": {
+            "date": "2024-09-10 08:00 AM",
+            "amount": 450.75,
+            "type": "Payment from",
+            "status": "Pending"
+        }
+    },
+    {
         "name": "Michael Hun",
-        "date": "2024-10-05 02:00 PM",
-        "amount": 150.00,
-        "type": "Bill to",
-        "status": "Failed"
-      },
-      {
+        "details": {
+            "date": "2024-10-05 02:00 PM",
+            "amount": 150.00,
+            "type": "Bill to",
+            "status": "Failed"
+        }
+    },
+    {
         "name": "Upwork Payment",
-        "date": "2024-09-29 07:30 PM",
-        "amount": 510.99,
-        "type": "Payment from",
-        "status": "Success"
-      }
-    
+        "details": {
+            "date": "2024-09-29 07:30 PM",
+            "amount": 510.99,
+            "type": "Payment from",
+            "status": "Success"
+        }
+    }
 ]
-  
